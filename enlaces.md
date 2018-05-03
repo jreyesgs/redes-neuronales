@@ -5,6 +5,7 @@
 - [Regresión Lineal y Mínimos Cuadrados Ordinarios](https://www.youtube.com/watch?v=k964_uNn3l0)
 - [¿Qué es el Descenso del Gradiente? Algoritmo de Inteligencia Artificial](https://www.youtube.com/watch?v=A6FiCDoz8_4)
 - [Introducción a Machine Learning, Tensorflow y redes neuronales](https://www.youtube.com/watch?v=E7iBIzEhKnQ)
+- [Machine Learning, Python y el Titanic](https://www.youtube.com/watch?v=6MZFsZ9HINE&t=1024s)
 
 # Lecturas
 - [Guía para aprender Inteligencia Artificial sin excusas. Escribe tu primera red neuronal](https://puentesdigitales.com/2017/10/18/guia-para-aprender-inteligencia-artificial-sin-excusas-escribe-tu-primera-red-neuronal/)

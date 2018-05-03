@@ -7,4 +7,4 @@
 - [Introducción a Machine Learning, Tensorflow y redes neuronales](https://www.youtube.com/watch?v=E7iBIzEhKnQ)
 
 # Recursos
-[Playground Tensorflow](https://playground.tensorflow.org/)
+- [Playground Tensorflow](https://playground.tensorflow.org/)

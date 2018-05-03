@@ -5,3 +5,6 @@
 - [Regresión Lineal y Mínimos Cuadrados Ordinarios](https://www.youtube.com/watch?v=k964_uNn3l0)
 - [¿Qué es el Descenso del Gradiente? Algoritmo de Inteligencia Artificial](https://www.youtube.com/watch?v=A6FiCDoz8_4)
 - [Introducción a Machine Learning, Tensorflow y redes neuronales](https://www.youtube.com/watch?v=E7iBIzEhKnQ)
+
+# Recursos
+[Playground Tensorflow](https://playground.tensorflow.org/)

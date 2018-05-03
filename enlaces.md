@@ -11,3 +11,5 @@
 - [How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
 # Recursos
 - [Playground Tensorflow](https://playground.tensorflow.org/)
+- [NN:Fast and simple Neural Network for node.js](https://github.com/ttezel/nn)
+- [An open source machine learning framework for everyone](https://www.tensorflow.org/)

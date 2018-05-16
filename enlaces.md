@@ -10,6 +10,7 @@
 # Lecturas
 - [Guía para aprender Inteligencia Artificial sin excusas. Escribe tu primera red neuronal](https://puentesdigitales.com/2017/10/18/guia-para-aprender-inteligencia-artificial-sin-excusas-escribe-tu-primera-red-neuronal/)
 - [How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
+- [How to Create Simple Neural Networks in JavaScript](https://progur.com/2016/09/how-to-create-and-use-neural-networks-in-javascript.html)
 
 # Recursos
 - [Playground Tensorflow](https://playground.tensorflow.org/)

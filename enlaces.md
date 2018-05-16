@@ -13,6 +13,8 @@
 
 # Recursos
 - [Playground Tensorflow](https://playground.tensorflow.org/)
-- [NN:Fast and simple Neural Network for node.js](https://github.com/ttezel/nn)
 - [An open source machine learning framework for everyone](https://www.tensorflow.org/)
+- [NN:Fast and simple Neural Network for node.js](https://github.com/ttezel/nn)
 - [scikit-learn: Machine Learning in Python](http://scikit-learn.org/stable/)
+- [The javascript architecture-free neural network library](http://caza.la/synaptic)
+

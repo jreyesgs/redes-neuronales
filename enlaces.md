@@ -19,3 +19,5 @@
 - [scikit-learn: Machine Learning in Python](http://scikit-learn.org/stable/)
 - [The javascript architecture-free neural network library](http://caza.la/synaptic)
 
+# Blogs
+- [Aprende Machine Learning](http://www.aprendemachinelearning.com)

@@ -14,6 +14,7 @@
 - [How to Create Simple Neural Networks in JavaScript](https://progur.com/2016/09/how-to-create-and-use-neural-networks-in-javascript.html)
 - [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+- [Programar un perceptron en python](http://pabloem.github.io/Programando-una-red-neuronal/)
 
 # Recursos
 - [Playground Tensorflow](https://playground.tensorflow.org/)
